@@ -4,7 +4,7 @@ import tpHero from "../images/woman-in-pink-long-sleeve-hoodie-carrying-tissue-r
 const Hero = () => {
   return (
     <Box
-      as="article"
+      as="section"
       // bgImage={`url(${tpHero})`}
       // bgPos="center"
       bgRepeat="no-repeat"
